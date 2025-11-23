@@ -48,9 +48,18 @@ library-inventory-manager-yokshit-csv/
 ├── .gitignore
 ├── setup.py
 ├── Output
-    ├──![alt text](<Screenshot 2025-11-23 204724.png>)
-    ├──![alt text](<Screenshot 2025-11-23 204947.png>)
-    ├──![alt text](<Screenshot 2025-11-23 205027.png>)
+<img width="419" height="190" alt="Screenshot 2025-11-23 204703" src="https://github.com/user-attachments/assets/1b2e1640-54ba-4bf5-84ff-46412ec02741" />
+<img width="1041" height="335" alt="Screenshot 2025-11-23 204947" src="https://github.com/user-attachments/assets/447bb6e7-c407-4fff-bd4d-13470f7c52c9" />
+<img width="1063" height="372" alt="Screenshot 2025-11-23 205027" src="https://github.com/user-attachments/assets/613d3772-d5c0-470d-b4ad-88b98af65ae9" />
+
+#Features
+Add Books – Add new books to the library catalog
+Issue Books – Mark books as issued to students/staff
+Return Books – Mark issued books as available again
+Search Books – Find books by title or ISBN
+View All Books – Display the entire catalog
+
+
 
 **Bibliography**
 
