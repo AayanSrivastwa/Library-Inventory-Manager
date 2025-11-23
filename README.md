@@ -1,1 +1,59 @@
 # Library-Inventory-Manager
+
+**Course:** Programming for Problem Solving using Python
+
+**Author:** Aayan Srivastwa
+## Overview
+A small command-line library inventory manager that demonstrates object-oriented design, file persistence (CSV), exception handling, and a menu-driven CLI.
+
+## Files
+- `library_manager/book.py` — `Book` class
+- `library_manager/inventory.py` — `LibraryInventory` class and CSV persistence
+- `cli/main.py` — Menu-driven command-line interface
+- `data/catalog.csv` — Stored catalog (created on first run)
+- `tests/test_library.py` — unit tests using `unittest`
+
+## How to run
+
+1. Run the CLI:
+
+```bash
+python -m cli.main
+```
+
+The program stores catalog data in `data/catalog.csv`.
+
+**Folder Structre**
+
+library-inventory-manager-yokshit-csv/
+│
+├── cli/
+│   ├── __init__.py
+│   └── main.py
+│
+├── library_manager/
+│   ├── __init__.py
+│   ├── book.py
+│   └── inventory.py
+│
+├── tests/
+│   ├── __init__.py
+│   └── test_library.py
+│
+├── data/
+│   └── catalog.csv
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── setup.py
+├── Output
+    ├──![alt text](<Screenshot 2025-11-23 204724.png>)
+    ├──![alt text](<Screenshot 2025-11-23 204947.png>)
+    ├──![alt text](<Screenshot 2025-11-23 205027.png>)
+
+**Bibliography**
+
+- `Youtube` = Brocode
+- `Google`
+- `W3Schools.com`
