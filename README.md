@@ -23,7 +23,7 @@ The program stores catalog data in `data/catalog.csv`.
 
 **Folder Structre**
 
-library-inventory-manager-yokshit-csv/
+library-inventory-manager-/
 │
 ├── cli/
 │   ├── __init__.py
